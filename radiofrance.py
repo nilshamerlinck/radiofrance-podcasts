@@ -8,7 +8,6 @@ import httplib
 import urllib2 
 from cookielib import CookieJar
 import urlparse
-import os.path
 
 import re
 
